@@ -2,7 +2,7 @@
 
 Cálculo de gasto de energia mensal de um aparelho
 
-Linguagem usada: python ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName)
+Linguagem usada: python 🐍
 
 
 Fórmula utilizada: (potencia * horasDia * 30) / 1000 🧮
